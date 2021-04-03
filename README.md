@@ -5,7 +5,7 @@
 
 # Summary
 
-The project is to improve the visualization in the [police stop report](https://data.sfgov.org/Geographic-Locations-and-Boundaries/SF-Find-Neighborhoods/pty2-tcw4) of San Francisco Police Department (SFPD) and to provide our own EAD and corresponding visulization based on the police stop database collected by [Stanford Open Policing Project](https://openpolicing.stanford.edu/data/) to gained a better understanding of police work conducted in San Francisco.
+The project is to improve the visualization in the [police stop report](https://data.sfgov.org/Geographic-Locations-and-Boundaries/SF-Find-Neighborhoods/pty2-tcw4) of San Francisco Police Department (SFPD) and to provide our own EAD and corresponding visulization based on the police stop database collected by [Stanford Open Policing Project](https://openpolicing.stanford.edu/data/) to answer the How, Who, When, and Where of police stops in San Francisco.
 
 
 

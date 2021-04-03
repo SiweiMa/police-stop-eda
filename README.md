@@ -3,18 +3,10 @@
 
 #### by Okeefe Niemann and Siwei Ma
 
-# Big Idea
+# Summary
 
-The methodology of police stops still has space to improve, especially regarding to the target population, according to the analysis of all San Francisco police stops from 2007 to 2016.
+The project is to improve the visualization in the [police stop report](https://data.sfgov.org/Geographic-Locations-and-Boundaries/SF-Find-Neighborhoods/pty2-tcw4) of San Francisco Police Department (SFPD) and to provide our own EAD and corresponding visulization based on the police stop database collected by [Stanford Open Policing Project](https://openpolicing.stanford.edu/data/) to gained a better understanding of police work conducted in San Francisco.
 
-
-# Introduction
-
-The traffic stop is known as one of the most common ways in which the public interacts with the police. The [Stanford Open Policing Project](https://openpolicing.stanford.edu/data/) collected the police stops data from state to state and published their nationwide analysis, along with the datasets. However, San Francisco, as one of the largest U.S. cities, has its unique complexity regarding demographics, culture, and political environment. Also, considering the decentralized nature of policing in the United States, it is worth exploring the police stops in San Francisco solely by using the datasets provided by the Stanford Open Policing Project.
-
-San Francisco Police Department (SFPD) releases the police stop report regularly on its [website](https://data.sfgov.org/Geographic-Locations-and-Boundaries/SF-Find-Neighborhoods/pty2-tcw4), which has various visualizations. However, these visualizations are far from optimal which potentially compromises the public access to the police stop data.
-
-In this repository, we redesigned the visualizations in the SFPD report as the first step. Then, we further analyzed the information obtained from the redesigned visualizations. By answering the four Ws - **How, Who, When, and Where** of police stops, we gained a better understanding of police work conducted in San Francisco.
 
 
 
